@@ -6,7 +6,7 @@ public class Hellojava {
 		// 한국
 		// 시스템에 출력하는 기능
         System.out.println("Wellcome to JAVA");
-        
+        System.out.println("Today is Tuesday..");
 	}
 
 }
